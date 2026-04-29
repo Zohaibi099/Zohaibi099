@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zohaib Alam</h1>
-<h3 align="center">🎓 CS Graduate (2026) &nbsp;|&nbsp; 🤖 AI/ML Enthusiast &nbsp;|&nbsp; 🚀 FastAPI & LLM Developer</h3>
+<h3 align="center">🎓 CS Graduate (2026) &nbsp;|&nbsp; 🤖 AI/ML Engineer &nbsp;|&nbsp; 🚀 FastAPI & LLM Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zohaibi099&label=Profile%20views&color=0e75b6&style=flat" alt="zohaibi099" />
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/zaibii_99" target="blank">
-    <img src="https://img.shields.io/twitter/follow/zaibii_99?logo=twitter&style=for-the-badge" alt="zaibii_99" />
+  <a href="https://www.linkedin.com/in/zohaib-alam-a1656b351/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="zohaib-alam" />
   </a>
 </p>
 
@@ -68,9 +68,6 @@ Open to **AI/ML projects**, internships, and real-world problem solving
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://twitter.com/zaibii_99" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaibii_99" height="30" width="40" />
-  </a>
   <a href="https://www.linkedin.com/in/zohaib-alam-a1656b351/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zohaib alam" height="30" width="40" />
   </a>
