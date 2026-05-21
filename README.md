@@ -61,7 +61,7 @@
 ---
 
 ## 🤝 Looking to Collaborate
-Open to **AI/ML projects**, internships, and real-world problem solving
+Open to **AI/ML projects** and real-world problem solving
 
 ---
 
